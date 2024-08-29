@@ -92,6 +92,14 @@ There is a dropbox form where you can submit comments or questions anonymously (
 
 The Training and Mentoring Committee and GASA organize mentoring pairings between faculty and postdocs, postdocs and graduate students, and graduate students and undergraduates. Pairings usually happen during the fall semester, or shortly before or after arrival in the Department or Institute. You may request a mentor at any time, however! Contact the Training and Mentoring Committee with requests. See details under the relevant faculty/postdoc/graduate student sections below. 
 
+### How do I prepare my taxes?
+
+T4, T4A and pay slips are accessible digitally on the [Employee self-service portal](https://easi.its.utoronto.ca/administrative-management-systems/employee-self-service-ess/) and [ACORN](https://www.acorn.utoronto.ca/). Note that your T4 cannot be accessed through ACORN and must be obtained from the ESS portal.
+
+### How do I manage my time and workload?
+
+[University of Toronto Library Services](https://guides.hsict.library.utoronto.ca/SMH/Workshops/timemanagementtools) offers many tools to help you effectively manage time and mental health.
+
 
 ## Information relevant to Faculty 
 
@@ -250,6 +258,9 @@ Check out the UofT-Astro Slack #jobs channel, [AAS jobs register](https://jobreg
 
 
 ## Information relevant for Undergrads
+
+### How to write an academic CV?
+We offer guides for writing [academic CVs](https://docs.google.com/document/d/1KNtSRWZ954vALfrNIZ1K63Xt7pqWddYNfjldcuD8w4w/edit). Note that conventions can vary between diciples. Feel free to 
 
 ## Information relevant for Grad students
 ### Stipend payments
